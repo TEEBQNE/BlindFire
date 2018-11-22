@@ -30,11 +30,11 @@ first start the server on the 1440x900 instance then connect to it using the 204
 
 ## Controls
 
-* *Top Down Shooter Player (1440x900)* *
+* *Top Down Shooter Player (1440x900)
 This player can move with the joystick, shoot with the right trigger, dash with the left trigger and collect resource 
 flowers with the bumpers. Their objective is to destroy all flying enemies and survive until the last boss spawns.
 
-* *Tower Defense Player (2048x1536)* *
+* *Tower Defense Player (2048x1536)
 This player is suppose to use a tablet, so all controls are touch inputs. As you are most likely going to test this on 
 a computer, all inputs are done using the mouse. They are able to build, place, sell, upgrade and retarget turrets using 
 the UI. All interactions the player does are networked to the other player so all turret placement, upgrade, destruction, 
