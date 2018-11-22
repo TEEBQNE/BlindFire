@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - bullet
+  - ore
+  - enemyArea
+  - walkingArea
+  - networkedPlayer
+  - turret
+  - turretPivots
+  - square
+  - playerBullet
+  - groundEnemy
+  - bossTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - enemyArea
+  - walkingArea
+  - hexgaon
+  - Player
+  - Turret
+  - Enemy
+  - turretView
+  - bullet
+  - groundEnemy
+  - playerBullet
+  - resourcePetal
+  - enemyBullet
+  - boss
+  - petal
+  - bomb
+  - test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 82641141
+    locked: 0
+  - name: Turret
+    uniqueID: 1533252481
+    locked: 0

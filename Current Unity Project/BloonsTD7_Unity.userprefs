@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UpgradeSystem/upgradePanelScript.cs">
+    <Files>
+      <File FileName="Assets/turretUpgradeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpawnEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShootScript.cs" Line="79" Column="6" />
+      <File FileName="Assets/Scripts/rescaleRatio.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/hexagonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ResourceCollectScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/BuyButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/buttonTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/TurretShop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/ItemHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpgradeSystem/upgradePanelScript.cs" Line="77" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

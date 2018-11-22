@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{48AA3D10-B610-0353-EBAB-0571EC9E625E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gamemanging/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gamemanging/GameManager.cs" Line="529" Column="16" />
+      <File FileName="Assets/Scripts/Player/RotTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemies/MoveEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/BuyButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Resources/ResourceCollectScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/MovementTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Animation Destroy/animDestroyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/visionColliderCollisions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemies/SpawnEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/XInputDotNet/Examples/XInputTestCS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/ShootScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpgradeSystem/upgradePanelScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gamemanging/buttonTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/TurretShop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/turretUpgradeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/turretOutlineScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/turretBodyCollisions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/upgradeButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/turretShopSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/setSize.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/snapToPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gamemanging/hexagonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/resourceCopyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shader/Sprite-Outline.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemies/SpawnOutside.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemies/MoveOutsideEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Health Bar/enemyHealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Health Bar/healthBarFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Networking/networkPlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gamemanging/startRound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/ItemHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/shopButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/resizeGooShot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret/toggleTurretSpawnCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/UniBulletHell/Script/ShotPattern/UbhCircleShot.cs" Line="1" Column="1" />
+      <File FileName="Assets/UniBulletHell/Script/Controller/UbhShotCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Networking/NetworkManagerHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSystem/mapButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemies/MoveToBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/turretUnlockButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/bossBulletScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
