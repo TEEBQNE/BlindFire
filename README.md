@@ -1,4 +1,4 @@
-# README
+# BlindFire ReadMe
 
 If you have any questions or any parts of the game do not work, please do not hesitate to contact me at: 
 tjchapman1998@gmail.com
